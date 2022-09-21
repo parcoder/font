@@ -1,2 +1,3 @@
 # Font for termux with icons 
-font for termux
+
+Just download it in .termux fonder and restart termux.
